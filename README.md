@@ -14,7 +14,7 @@ Using data from funding portals, we are going to create a linear regression and 
 The average fundraise is just over $300k while the median is $86k.  The data is right skewed, in this case meaning the there are many unsuccessful raises and a few very successful raises that are elevating the mean way about the median.  A successful raise is defined as raising at least 500k.  Only 13.7% of raises are successful.
 
 Real Estate and Construction is the industry with the highest average amount raised.
-![image](https://user-images.githubusercontent.com/106030704/226972896-ddb2d772-13bf-4ca2-aaa0-19eda040150c.png)
+![image](https://user-images.githubusercontent.com/106030704/226997011-d148b49f-2680-4c1d-9c6a-ae6424b2cc59.png)
 
 Preferred Equity offerings had the highest average amount raised.
 ![image](https://user-images.githubusercontent.com/106030704/226978184-9b124bff-3645-4c29-bde7-a55633441114.png)
