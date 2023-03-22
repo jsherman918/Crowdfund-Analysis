@@ -27,10 +27,13 @@ Companies with a higher market cap tended to raise better.  Investors prefer to 
 As we will only be investing in a select few offerings, we need to make sure we get our investments right.  In this case we are prioritizing precision over recall.
 
 Decision Tree Precision 63.5% after hyptertuning with smote.
+
 ![image](https://user-images.githubusercontent.com/106030704/226997650-8e0227d9-86d8-4fe5-8a55-6d7030182e2c.png)
+
 ![image](https://user-images.githubusercontent.com/106030704/226997989-eadd9b16-1f48-414d-8c2f-225cd2481038.png)
 
 Random Forest Classifier had a precision of 69%
+
 ![image](https://user-images.githubusercontent.com/106030704/226998301-17411eff-edf3-4d1f-ba83-d75d67701b6b.png)
 
 ## Findings
