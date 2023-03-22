@@ -30,8 +30,6 @@ Decision Tree Precision 63.5% after hyptertuning with smote.
 
 ![image](https://user-images.githubusercontent.com/106030704/226997650-8e0227d9-86d8-4fe5-8a55-6d7030182e2c.png)
 
-![image](https://user-images.githubusercontent.com/106030704/226997989-eadd9b16-1f48-414d-8c2f-225cd2481038.png)
-
 Random Forest Classifier had a precision of 69%
 
 ![image](https://user-images.githubusercontent.com/106030704/226999023-728d69f3-c826-496b-a16a-26ba1371cc93.png)
