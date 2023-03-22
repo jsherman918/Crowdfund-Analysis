@@ -34,9 +34,6 @@ Random Forest Classifier had a precision of 69%
 
 ![image](https://user-images.githubusercontent.com/106030704/226999023-728d69f3-c826-496b-a16a-26ba1371cc93.png)
 
-
-![image](https://user-images.githubusercontent.com/106030704/226998301-17411eff-edf3-4d1f-ba83-d75d67701b6b.png)
-
 ## Findings
 
 Valuation/Cap and annual revenue were the most important features in determining if there was going to be a successful offering.
