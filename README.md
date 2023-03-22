@@ -17,25 +17,25 @@ Real Estate and Construction is the industry with the highest average amount rai
 ![image](https://user-images.githubusercontent.com/106030704/226997011-d148b49f-2680-4c1d-9c6a-ae6424b2cc59.png)
 
 Preferred Equity offerings had the highest average amount raised.
-![image](https://user-images.githubusercontent.com/106030704/226978184-9b124bff-3645-4c29-bde7-a55633441114.png)
+![image](https://user-images.githubusercontent.com/106030704/226997475-4ec0db63-5336-4e57-9b33-502cfe3ca856.png)
 
 Companies with a higher market cap tended to raise better.  Investors prefer to see a company establish itself a bit more before investing.
-![image](https://user-images.githubusercontent.com/106030704/226988448-90e6f86e-e524-4bef-a2d8-1e65fe678f68.png)
+![image](https://user-images.githubusercontent.com/106030704/226997378-0fff6996-9837-4d25-947d-f9d0a6ec633d.png)
 
 ## Modeling
 
 As we will only be investing in a select few offerings, we need to make sure we get our investments right.  In this case we are prioritizing precision over recall.
 
 Decision Tree Precision 63.5% after hyptertuning with smote.
-![image](https://user-images.githubusercontent.com/106030704/226989879-c256b07e-33a6-441e-9a44-2ffe4f35a9da.png)
-![image](https://user-images.githubusercontent.com/106030704/226990168-2dcd621b-fb36-4ff1-87b4-43d9dada11a4.png)
+![image](https://user-images.githubusercontent.com/106030704/226997650-8e0227d9-86d8-4fe5-8a55-6d7030182e2c.png)
+![image](https://user-images.githubusercontent.com/106030704/226997989-eadd9b16-1f48-414d-8c2f-225cd2481038.png)
 
 Random Forest Classifier had a precision of 69%
-![image](https://user-images.githubusercontent.com/106030704/226991130-a19509f4-49da-4814-9959-b7fd5787bc6d.png)
+![image](https://user-images.githubusercontent.com/106030704/226998301-17411eff-edf3-4d1f-ba83-d75d67701b6b.png)
 
 ## Findings
 
 Valuation/Cap and annual revenue were the most important features in determining if there was going to be a successful offering.
-![image](https://user-images.githubusercontent.com/106030704/226991458-62b8d623-265d-42ca-95f8-8abff7a4c09e.png)
+![image](https://user-images.githubusercontent.com/106030704/226998562-4ad6c672-0dfa-49b3-a325-b77223759cad.png)
 
 Given that only 13.7% of offerings are successful, investing would be a risky endevour.  A precision closer to 90% would have been ideal in order to risk captial.  A precision of 69% is a start, but we likely will need more data such as marketing budgets, cash reserves, net income, and experience of senior leadership.
