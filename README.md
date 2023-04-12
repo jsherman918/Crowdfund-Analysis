@@ -61,6 +61,9 @@ contact Jake Sherman at jsherman918@yahoo.com
 ## Repository Structure
 
 ├── Companies Search Export (1).csv
+
 ├── Crowdfund Analysis.ipynb
+
 ├── Crowdfunding Analysis.pdf
+
 ├── README.md
