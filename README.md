@@ -1,6 +1,6 @@
 # Crowdfund-Analysis
 
-![image](https://user-images.githubusercontent.com/106030704/231515744-fd8f93cc-8355-4bb6-9a8a-2a21ab29ed8d.png)
+![image](https://user-images.githubusercontent.com/106030704/231516071-6d8009ff-c861-4ffd-ab17-f6b9ee7ec68f.png)
 
 Author: Jake Sherman
 
