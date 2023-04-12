@@ -1,4 +1,8 @@
 # Crowdfund-Analysis
+
+![image](https://user-images.githubusercontent.com/106030704/231515744-fd8f93cc-8355-4bb6-9a8a-2a21ab29ed8d.png)
+Author: Jake Sherman
+
 ## Business Case
 
 In 2016 the Jobs Act passed which empowered issuers to raise money from retail or non-accredited investors. 90% of startups fail to secure venture funding and so raising money via Reg CF or Reg A has become a viable alternative.  When offering securities to the public, the greatest question issuers will face is "will there be appetite from the public"?
@@ -40,3 +44,22 @@ Valuation/Cap and annual revenue were the most important features in determining
 ![image](https://user-images.githubusercontent.com/106030704/226998562-4ad6c672-0dfa-49b3-a325-b77223759cad.png)
 
 Given that only 13.7% of offerings are successful, investing would be a risky endevour.  A precision closer to 90% would have been ideal in order to risk captial.  A precision of 69% is a start, but we likely will need more data such as marketing budgets, cash reserves, net income, and experience of senior leadership.
+
+## Recommendations
+
+We want to focus our investment:
+1. Real Estate and Construction Industry
+2. Revenue generating companies (not pre-rev) with a $20-$25M valuation
+3. Utilize a preferred equity offering structure
+4. Set the minimum investment to $500
+
+## For More Information
+
+contact Jake Sherman at jsherman918@yahoo.com
+
+## Repository Structure
+
+├── Companies Search Export (1).csv
+├── Crowdfund Analysis.ipynb
+├── Crowdfunding Analysis.pdf
+├── README.md
